@@ -1,0 +1,8 @@
+Model Information:
+* title:	19th Century Vase
+* source:	https://sketchfab.com/3d-models/19th-century-vase-932e0a0702aa433fa6572b85f86888cd
+* author:	Andrea Spognetta (Spogna) (https://sketchfab.com/spogna)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
